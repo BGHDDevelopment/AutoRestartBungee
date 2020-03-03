@@ -32,10 +32,10 @@ public class Restart extends Plugin {
             @Override
             public void run() {
                 try {
-/*                    for (int i = 0; i<timer; i++){
-                        getLogger().info("BungeeCord will restart in "+(timer-i+3)+" minutes.");
+                    for (int i = 0; i<timer; i++){
+                        //getLogger().info("BungeeCord will restart in "+(timer-i+3)+" minutes.");
                         Thread.sleep(60000);
-                    }*/
+                    }
                     getProxy().getPluginManager().dispatchCommand(getProxy().getConsole(), "alert "+Messages[0]);
                     Thread.sleep(120000);
                     getProxy().getPluginManager().dispatchCommand(getProxy().getConsole(), "alert "+Messages[1]);
