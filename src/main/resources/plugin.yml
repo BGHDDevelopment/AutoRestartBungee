@@ -1,0 +1,5 @@
+name: Restart
+version: ${project.version}
+main: net.noodles.restart.restart.Restart
+description: Bungeecord Restart
+author: BGHDDevelopment

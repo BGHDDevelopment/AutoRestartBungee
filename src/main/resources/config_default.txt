@@ -1,0 +1,30 @@
+#   Default Config for Restart (Original by Phreag, Updated by BGHDDevelopment)
+#   ##############################
+#   (c) 2015 by Phreag - JenoMiners.de | (c) 2020 by BGHDDevelopment - bghddevelopment.com
+#   Do not add Lines , it will break everything, just change the values...
+#   After how long should BungeeCord restart?
+#   After This time it will restart automatically. (minimum: 3 minutes)
+#   goes by minutes (60=1h, 1440=1d)
+720
+#   Messages to display before restarting. Supports Color codes.
+#   Alerts will be sent 3 and 1 minute before restarting and as a countdown for the last 10 seconds
+&cBungeeCord will restart in 3 minutes!
+&cBungeeCord will restart in 1 minutes!
+&cBungeeCord will restart in 10 seconds!
+&cBungeeCord will restart in 9 seconds!
+&cBungeeCord will restart in 8 seconds!
+&cBungeeCord will restart in 7 seconds!
+&cBungeeCord will restart in 6 seconds!
+&cBungeeCord will restart in 5 seconds!
+&cBungeeCord will restart in 4 seconds!
+&cBungeeCord will restart in 3 seconds!
+&cBungeeCord will restart in 2 seconds!
+&cBungeeCord will restart in 1 seconds!
+&4&lBungeeCord is restarting now!
+#   System Time in Hours to restart:
+4
+#   System Time in Minutes to restart:
+30
+#   Use System time for Restart? 1=yes, 0=no, use interval
+0
+#   End of File
